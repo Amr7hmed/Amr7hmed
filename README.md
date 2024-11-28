@@ -20,10 +20,4 @@ I'm a **Senior Front-End Developer** with 4+ years of experience in building mod
   <a href="https://linkedin.com/in/amrahmed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:amr.ahmed@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://amrahmed.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
-  </a>
 </p>
