@@ -17,7 +17,7 @@ I'm a **Senior Front-End Developer** with 4+ years of experience in building mod
 
 ### 🌐 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/amrahmed" target="_blank">
+  <a href="https://www.linkedin.com/in/amr7hmed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
