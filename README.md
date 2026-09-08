@@ -26,9 +26,10 @@ Currently **Senior Software Engineer** at **[Inovola](https://www.linkedin.com/c
 | Senior Software Engineer (Full-time) | **Inovola** — SAIP IPRS | Oct 2024 – Present |
 | Senior Software Engineer (Part-time) | **Talent Supplier** — Marfeq (مرفق / MRFQ) | Sep 2024 – Present |
 | Senior Software Engineer (Full-time) | **Talent Supplier** — The Architect & Sakk | Dec 2023 – Sep 2024 |
-| Senior Software Engineer (Full Stack) | **Hwzn Tech** | Jun 2022 – Dec 2023 |
+| Senior Software Engineer | **Hwzn Tech** | Jul 2022 – Oct 2024 |
 | Full Stack Developer | **Like Card** | Nov 2020 – May 2022 |
-| Junior Frontend Developer | Ongoing | Feb 2018 – Oct 2020 |
+| Front-End Developer (React) | **Ongoing** | Feb 2018 – Oct 2020 |
+| Graphic Designer | **2B** | Mar 2014 – May 2018 |
 
 **Inovola — SAIP IPRS**
 - Build government IP services across **patents, trademarks, and assistive modules** using **React**, **Redux Toolkit**, and application/payment APIs
@@ -47,9 +48,19 @@ Currently **Senior Software Engineer** at **[Inovola](https://www.linkedin.com/c
 - **Sakk:** public website, partner dashboard, and admin/developer dashboards (**Vite** microfrontends, **Module Federation**, **React Query**)
 - Orders, invoices, tax documents, analytics, RTL/LTR i18n, and Excel/PDF exports
 
-**Earlier**
-- Scaled real-estate and e-commerce platforms at Hwzn Tech with **Node.js** APIs and real-time features
-- Mentored juniors on full-stack practices while shipping responsive dashboards
+**Hwzn Tech**
+- Saudi software house (**Riyadh**) delivering web products for **KSA/GCC** clients — worked remotely across **real-estate and e-commerce** platforms
+- Built customer-facing UIs and admin dashboards with **React**, **Redux**, and **Tailwind CSS**, plus **Node.js REST APIs** on **MySQL** and **MongoDB**
+- Supported high-traffic, bilingual-style product delivery (responsive, cross-browser) and progressed from Full-stack Developer to Senior (full-time, then part-time)
+
+**Like Card**
+- Full-stack engineer at **LikeCard**, a **MENA digital gift-card / prepaid-card** e-commerce platform (3,000+ cards: gaming, telecom, shopping, entertainment)
+- Built storefront and internal dashboard flows with **React** and **Node.js**, backed by **MySQL** and **MongoDB** (Cairo, on-site)
+- Implemented **secure authentication**, order/catalog-related API integration, and responsive production UIs; mentored junior developers
+
+**Earlier career**
+- **Ongoing** (Cairo digital agency): converted designs into responsive production sites with **HTML, CSS/Sass, JavaScript, React, and PHP** (e.g. Oscar, Jira Market)
+- **2B** (Egyptian electronics retailer): graphic designer for online/offline campaigns, brand identity, and motion graphics — the path into product UI work
 
 ---
 
