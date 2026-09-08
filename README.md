@@ -1,21 +1,21 @@
 # Hi, I'm Amr Ahmed
 
-**Software Development Engineer · Full Stack (React · Node.js · AWS)**
+**Senior Software Engineer · Full Stack (React · Node.js · TypeScript · AWS)**
 
-I design and ship scalable web products end-to-end — from polished React/Next.js interfaces to Node.js APIs and AWS cloud services. I care about clean architecture, performance, and delivering business impact with cross-functional teams.
+I design and ship scalable web products end-to-end — from React/Next.js interfaces to Node.js APIs, databases, and cloud infrastructure. I care about clean architecture, bilingual UX, and production-ready delivery with cross-functional teams.
 
-Currently **Senior Software Engineer (Full Stack)** at **[Talent Supplier](https://www.linkedin.com/company/talent-supplier)** · Based in Cairo, Egypt
+Currently **Senior Software Engineer** at **[Inovola](https://www.linkedin.com/company/inovola)** (full-time), assigned to the **Saudi Authority for Intellectual Property (SAIP) IPRS** platform · Part-time at **[Talent Supplier](https://www.linkedin.com/company/talent-supplier)** · Based in Cairo, Egypt
 
 ---
 
 ### What I do
 
 - Build **full-stack** apps with **React**, **Next.js**, **TypeScript**, and **Node.js**
-- Design **RESTful APIs**, data models (**MySQL** / **MongoDB**), and secure auth flows
-- Deploy and operate cloud workloads on **AWS** (Lambda, EC2, S3, RDS, DynamoDB)
-- Improve UX for **bilingual (AR/EN)** products and performance-sensitive environments
-- Integrate **AI** capabilities (e.g. OpenAI) into real product features
-- Practice **CI/CD**, containerization, and maintainable delivery with GitHub Actions & Docker
+- Design **RESTful APIs**, data models (**MySQL** / **Prisma** / **MongoDB**), and multi-tenant architectures
+- Deliver **workflow-driven** products (government IP services, payments, invoices, and request lifecycles)
+- Deploy and operate cloud workloads on **AWS** (RDS, Lambda, EC2, S3, DynamoDB)
+- Improve UX for **bilingual (AR/EN, RTL/LTR)** products
+- Practice **CI/CD**, **Docker**, **Nginx**, and maintainable Git workflows across Dev, Staging, UAT, and Production
 
 ---
 
@@ -23,29 +23,46 @@ Currently **Senior Software Engineer (Full Stack)** at **[Talent Supplier](https
 
 | Role | Company | Period |
 |------|---------|--------|
-| Senior Software Engineer (Full Stack) | **Talent Supplier** | Dec 2023 – Present |
+| Senior Software Engineer (Full-time) | **Inovola** — SAIP IPRS | Oct 2024 – Present |
+| Senior Software Engineer (Part-time) | **Talent Supplier** — Marfeq (مرفق / MRFQ) | Sep 2024 – Present |
+| Senior Software Engineer (Full-time) | **Talent Supplier** — The Architect & Sakk | Dec 2023 – Sep 2024 |
 | Senior Software Engineer (Full Stack) | **Hwzn Tech** | Jun 2022 – Dec 2023 |
 | Full Stack Developer | **Like Card** | Nov 2020 – May 2022 |
 | Junior Frontend Developer | Ongoing | Feb 2018 – Oct 2020 |
 
-**Highlights**
-- Led greenfield delivery with **Next.js / React / Node.js**, cutting load time by **~30%** and shipping a production-ready bilingual experience
-- Built serverless integrations with **AWS Lambda** for APIs and background jobs
-- Scaled real-estate & e-commerce platforms; helped grow daily traffic by **~20%** through real-time and API-driven features
-- Mentored juniors on full-stack practices while shipping responsive, high-traffic dashboards
+**Inovola — SAIP IPRS**
+- Build government IP services across **patents, trademarks, and assistive modules** using **React**, **Redux Toolkit**, and application/payment APIs
+- Implement multi-step request forms tied to workflow stages (formality amendment, examination, publication, and fees)
+- Integrate **invoice generation and payment verification** so fee-required requests cannot progress until payment is confirmed
+- Ship **Arabic/English (RTL/LTR)** interfaces aligned with legal process rules
+
+**Talent Supplier — Marfeq (مرفق / MRFQ)**
+- Full-stack engineer on an **AI-powered facility-management** platform for facility managers and owners associations in Saudi Arabia
+- Build a **multi-tenant** enterprise app with **React**, **TypeScript**, **Node.js**, **Express**, **Prisma**, and **MySQL**
+- Implement REST APIs, tenant isolation (`tenantId`), **AWS RDS**, **Redis**, **Docker**, **Nginx**, and **PM2**
+- Debug production issues across UI, APIs, database, and infrastructure (CORS, Prisma, deployments)
+
+**Talent Supplier — The Architect & Sakk (صك)**
+- **The Architect:** bilingual interior-design marketplace with **Next.js**, **TypeScript**, and **React** — request flows, designer portfolios, packages, and **Moyasar** payments
+- **Sakk:** public website, partner dashboard, and admin/developer dashboards (**Vite** microfrontends, **Module Federation**, **React Query**)
+- Orders, invoices, tax documents, analytics, RTL/LTR i18n, and Excel/PDF exports
+
+**Earlier**
+- Scaled real-estate and e-commerce platforms at Hwzn Tech with **Node.js** APIs and real-time features
+- Mentored juniors on full-stack practices while shipping responsive dashboards
 
 ---
 
 ### Tech stack
 
 **Frontend**  
-`React` · `Next.js` · `TypeScript` · `JavaScript (ES6+)` · `Redux` · `Context API` · `Tailwind CSS` · `Material UI` · `Vite`
+`React` · `Next.js` · `TypeScript` · `JavaScript (ES6+)` · `Redux Toolkit` · `React Query` · `React Router` · `Vite` · `i18next` · `Tailwind CSS` · `Material UI`
 
 **Backend & Data**  
-`Node.js` · `Express` · `REST` · `GraphQL` · `MySQL` · `MongoDB` · `Firebase`
+`Node.js` · `Express` · `Prisma` · `REST` · `GraphQL` · `MySQL` · `MongoDB` · `Redis` · `Firebase`
 
 **Cloud & Delivery**  
-`AWS (EC2, Lambda, S3, RDS, DynamoDB)` · `Docker` · `GitHub Actions` · `AWS CodePipeline` · `Jest` · `Git`
+`AWS (EC2, Lambda, S3, RDS, DynamoDB)` · `Docker` · `Nginx` · `PM2` · `GitHub Actions` · `AWS CodePipeline` · `Jest` · `Git`
 
 ---
 
@@ -53,7 +70,10 @@ Currently **Senior Software Engineer (Full Stack)** at **[Talent Supplier](https
 
 | Project | Focus |
 |---------|--------|
-| [**The Architect**](https://www.the-architect.com/ar/home) | Interior-design platform — Next.js, TypeScript, Node APIs, AR/EN UX, performance-first delivery |
+| **SAIP IPRS** | Government IP portal — patents, trademarks, workflow forms, invoices & payment gating, AR/EN |
+| **Marfeq (مرفق / MRFQ)** | Multi-tenant facility management — React, Node.js, Prisma, MySQL, AWS RDS, Docker, Nginx |
+| [**The Architect**](https://www.the-architect.com/ar/home) | Interior-design marketplace — Next.js, TypeScript, bilingual UX, Moyasar payments |
+| **Sakk (صك)** | Real-estate website + partner/admin/developer dashboards — Vite, Module Federation, React Query |
 | **Octane Dashboard** | Orders & users admin — React, Vite, Redux Toolkit, React Router |
 | **Hostn Your Rental** | Vacation-rental experience — discovery, listings, owner growth |
 | **CoinsBall Store** | E-commerce flows — checkout & order management |
